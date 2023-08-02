@@ -1,4 +1,4 @@
-# newapp7
+# CompilerInstaller
 
 A new Flutter project.
 
